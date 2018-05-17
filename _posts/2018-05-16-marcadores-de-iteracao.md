@@ -32,3 +32,4 @@ dois últimos não são muito usados, já que é bem fácil escrever o símbolo 
 contrário do que seria nos kanjis. :)
 
 Até a próxima!
+またな！
