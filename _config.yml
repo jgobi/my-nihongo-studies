@@ -4,7 +4,7 @@ author: João Gabriel
 description: > # Meta description of Homepage
   Um blog sobre meu progresso na aprendizado de japonês / A blog about my progress in learning japanese language.
 baseurl: "/nihongo"
-url: "hhttps://jgobi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jgobi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
