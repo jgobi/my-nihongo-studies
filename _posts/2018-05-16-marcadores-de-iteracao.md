@@ -31,6 +31,8 @@ hiragana e katakana, que são, respectivamente, o ゝ e o ヽ. Apesar disso, é 
 dois últimos não são muito usados, já que é bem fácil escrever o símbolo anterior novamente, ao
 contrário do que seria nos kanjis. :)
 
+Mais material [aqui](https://ja.wikipedia.org/wiki/%E8%B8%8A%E3%82%8A%E5%AD%97#%E3%82%9D%E3%81%A8%E3%83%BD%EF%BC%88%E4%B8%80%E3%81%AE%E5%AD%97%E7%82%B9%EF%BC%89) (em japonês).
+
 Até a próxima!
 
 またな！
