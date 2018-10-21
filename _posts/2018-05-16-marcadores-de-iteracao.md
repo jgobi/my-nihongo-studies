@@ -15,7 +15,7 @@ Daí encontrei algo interessante:
 | 転転          | tenten        | reviravolta ("re-rolar")             |
 | 転転転        | tententen     | contra-reviravolta ("re-re-rolar")   |
 
-E achei isso muito legal! Como a repetição de um mesmo ideograma muda o sentido dele de um jeito endendível!
+E achei isso muito legal! Como a repetição de um mesmo ideograma muda o sentido dele de um jeito entendível!
 Dai fui pesquisando mais, e encontrei coisas sobre essa repetição de caracteres, e aí que entra o título dessa
 postagem.
 
